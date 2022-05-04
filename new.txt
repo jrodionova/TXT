@@ -1,0 +1,6 @@
+Name: Rodionova Juliya
+Age: 35
+Number of pets: 0
+Desired salary: 500$
+
+
